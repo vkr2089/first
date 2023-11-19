@@ -1,0 +1,7 @@
+C:\Users\kyeid\source\repos\공부\공부\obj\Debug\공부.csproj.AssemblyReference.cache
+C:\Users\kyeid\source\repos\공부\공부\obj\Debug\공부.csproj.CoreCompileInputs.cache
+C:\Users\kyeid\source\repos\공부\공부\bin\Debug\공부.exe.config
+C:\Users\kyeid\source\repos\공부\공부\bin\Debug\공부.exe
+C:\Users\kyeid\source\repos\공부\공부\bin\Debug\공부.pdb
+C:\Users\kyeid\source\repos\공부\공부\obj\Debug\공부.exe
+C:\Users\kyeid\source\repos\공부\공부\obj\Debug\공부.pdb
