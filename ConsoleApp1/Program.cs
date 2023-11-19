@@ -17,6 +17,8 @@ namespace ConsoleApp1
             int nA = 777;
 
             Plus(nA);
+
+            Console.WriteLine("12");
         }
     }
 }
